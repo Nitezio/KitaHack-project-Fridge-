@@ -1,2 +1,16 @@
-# KitaHack-project-Fridge-
-Fridge is an AI app that tracks ingredients, expiry dates, and suggests recipes based on what's in your fridge. It uses Gemini 2.0, Firebase, and Google Cloud Vision, and connects to Shopee and GrabMart for easy grocery shopping, helping reduce waste and promote food security.
+# test6
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
